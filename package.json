@@ -1,0 +1,14 @@
+{
+  "name": "tumblr_api_sandbox",
+  "version": "1.0.0",
+  "description": "This is my playgroud to learn the tumblr api",
+  "main": "sandbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Randy Champagne",
+  "license": "ISC",
+  "dependencies": {
+    "tumblr": "^0.4.1"
+  }
+}
